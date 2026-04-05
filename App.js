@@ -1,0 +1,16 @@
+ watermarkContainer: {
+    position: 'absolute',
+    bottom: 40,
+    right: 20,
+    zIndex: 1000,
+    opacity: 0.4,
+  },
+  watermarkText: {
+    color: '#ffffff',
+    fontSize: 16,
+    fontWeight: '900',
+    letterSpacing: 3,
+    textShadowColor: 'rgba(0, 0, 0, 0.9)',
+    textShadowOffset: { width: 1, height: 1 },
+    textShadowRadius: 4,
+  },
